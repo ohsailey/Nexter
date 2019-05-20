@@ -1,7 +1,7 @@
 # Course: [Advanced CSS and SASS ](https://www.udemy.com/advanced-css-and-sass/)
 ## Author: Jonas Schmedtmann
 ## Student: Oh Sailey
-##### [See the live demo ](https://ohsailey.github.io/Nexters/)
+##### [See the live demo ](https://ohsailey.github.io/Nexter)
 ---
 
 ## Tools used in this course:
